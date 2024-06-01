@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a data specialist with a passion for data analysis
 -------------------------------------------------------
 
-Experienced professional with extensive expertise in client relationship management within the Healthcare and Information Technology sectors. My focus is on optimizing business operations and reporting, ensuring master data efficiency, accuracy, quality, and integrity. I am passionate about data analysis and continuous learning.
+A seasoned expert in client relationship management within the Healthcare and Information Technology sectors, I specialize in optimizing business operations and reporting. My emphasis is on ensuring master data efficiency, accuracy, quality, and integrity. I have a strong passion for data analysis and am dedicated to continuous learning.
 
 * 🌍  I'm based in Poznan, Poland
 * ✉️  You can contact me at [charityorhoridiohwo@gmail.com](mailto:charityorhoridiohwo@gmail.com)
