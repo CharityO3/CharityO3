@@ -8,7 +8,7 @@ A seasoned expert in client relationship management within the Healthcare and In
 
 * 🌍  I'm based in Poznan, Poland
 * ✉️  You can contact me at [charityorhoridiohwo@gmail.com](mailto:charityorhoridiohwo@gmail.com)
-* 🧠  I'm learning Hosting & API Integration
+* 🧠  I'm learning React & API Integration
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love learning and picking up new skills.
 
