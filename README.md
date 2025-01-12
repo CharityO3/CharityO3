@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charity Orhoridiohwo
 ============================================================================================================================================
 
-Data Analyst and Web developer with a passion for data analysis
+Data Analyst and Web developer with a passion for data analysis.
 -------------------------------------------------------
 
 A seasoned expert in client relationship management within the Healthcare and Information Technology sectors, I specialize in optimizing business operations and reporting. My emphasis is on ensuring master data efficiency, accuracy, quality, and integrity. I have a strong passion for data analysis and I am committed to continuous learning.
